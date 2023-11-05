@@ -1,0 +1,11 @@
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\bin\Debug\TextEncoding.exe.config
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\bin\Debug\TextEncoding.exe
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\bin\Debug\TextEncoding.pdb
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.csproj.AssemblyReference.cache
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.Form1.resources
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.Properties.Resources.resources
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.csproj.GenerateResource.cache
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.csproj.CoreCompileInputs.cache
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.exe
+C:\Users\ipnnr\source\repos\TextEncoding\TextEncoding\obj\Debug\TextEncoding.pdb
